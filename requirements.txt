@@ -1,3 +1,4 @@
 ipykenel
 matplotlib
 pandas
+seaborn
