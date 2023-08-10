@@ -2,3 +2,4 @@ ipykenel
 matplotlib
 pandas
 seaborn
+statsmodels
