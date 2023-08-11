@@ -1,5 +1,6 @@
 ipykenel
 matplotlib
 pandas
+xlwt
 seaborn
 statsmodels
