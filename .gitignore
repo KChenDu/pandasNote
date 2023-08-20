@@ -1,3 +1,4 @@
 .DS_Store
 output
 training/scientists_clean.csv
+training/p5-ch-model_diagnostics

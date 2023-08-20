@@ -4,3 +4,4 @@ pandas
 xlwt
 seaborn
 statsmodels
+scikit-learn
