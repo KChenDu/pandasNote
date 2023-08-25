@@ -3,5 +3,6 @@ matplotlib
 pandas
 xlwt
 seaborn
+pandas-datareader
 statsmodels
 scikit-learn
